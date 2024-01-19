@@ -6,8 +6,9 @@ prow is a go project scaffolding guide project. It relies directly on the prow-f
 ### useage 1
 
 ```bash
-git clone github.com/agclqq/prow
+git clone https://github.com/agclqq/prow.git
 cd prow
+go mod tidy
 go run main.go
 # Make sure you change it to your git repo address
 git remote remove origin
