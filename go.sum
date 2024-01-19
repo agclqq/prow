@@ -1,8 +1,6 @@
-github.com/agclqq/prow-framework v0.0.0-20240119063943-15fd3968ede3 h1:67C4bn1Pa7yqab7Y+yP+XcUcQQ+clJDMlgPSofEW98U=
-github.com/agclqq/prow-framework v0.0.0-20240119063943-15fd3968ede3/go.mod h1:c/ngnjwJoH1TGnesphXiji2yqPhmpzg2treGeyRzoh8=
-github.com/agclqq/prow-framework v0.0.0-20240119074643-dc6a85724993 h1:m3yD9QK4usWR+xrKaLl9RIkWBoiWrCMDOtWPoHfkOFw=
-github.com/agclqq/prow-framework v0.0.0-20240119074643-dc6a85724993/go.mod h1:c/ngnjwJoH1TGnesphXiji2yqPhmpzg2treGeyRzoh8=
 github.com/agclqq/prow-framework v0.0.0-20240119082549-34456d6acbb1 h1:+PSHucl5paoxU8xk0NvoqMzn+PYoQT1oR0k/JeXjIq0=
 github.com/agclqq/prow-framework v0.0.0-20240119082549-34456d6acbb1/go.mod h1:c/ngnjwJoH1TGnesphXiji2yqPhmpzg2treGeyRzoh8=
+github.com/agclqq/prow-framework v0.0.0-20240119103853-8f9da286ffd7 h1:3IyTXdtLXR7IV7orxMQZkLD03SpFHvA98TWmukNSq10=
+github.com/agclqq/prow-framework v0.0.0-20240119103853-8f9da286ffd7/go.mod h1:c/ngnjwJoH1TGnesphXiji2yqPhmpzg2treGeyRzoh8=
 github.com/agclqq/prowjob v0.0.0-20231116033358-dc6a35ac0410 h1:7HCzY9iMPJjRr95xdpXs+tPPRIl9VbOfR2o1lRN8J/A=
 github.com/agclqq/prowjob v0.0.0-20231116033358-dc6a35ac0410/go.mod h1:VbwvY2K2UdiY187Sz48XbspXTCmd3DExSa68Z4NoTlc=
